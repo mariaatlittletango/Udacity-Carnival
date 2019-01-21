@@ -8,7 +8,7 @@ Starter project for the Udacity [VR Developer Nanodegree](http://udacity.com/vr)
 This project was built by Maria. This is the first project submission for Udacity’s VR Foundations class. It was a fun exercise. 
 
 ### Download Project Files
-The Udacity submission only allows up to 500MB max so I have made the files [available for download via Google Drive](https://drive.google.com/open?id=1JNonqTz1Wfi3Wpj5V1B8sqrA4diJLYRx). 
+The Udacity submission only allows up to 500MB max so I have made the files [available for download via Google Drive](https://drive.google.com/open?id=1pR4m1ISjIQP6KS92BodRirIwmHXRh3_u). 
 
 ### Versions Used
 - [Unity LTS Release 2017.4.15](https://unity3d.com/unity/qa/lts-releases?version=2017.4)
